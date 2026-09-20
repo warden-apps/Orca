@@ -1,0 +1,18 @@
+{
+  "name": "Oscar",
+  "short_name": "Oscar",
+  "description": "Traces each month's take-home pay from payday through fixed costs, everyday spending and savings, and tracks what you hold across bank, wallet and cash.",
+  "id": "/oscar/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
